@@ -9,7 +9,7 @@ Este proyecto consiste en el diseño, modelado y simulación de una antena de mi
 
 ## Resultados de la Simulación
 Tras el proceso de optimización en **CST Studio Suite**, se obtuvieron los siguientes parámetros:
-- **$S_{11}@$5.8GHz:** -49.57 dB.
+- **S_{11}@5.8GHz:** -49.57 dB.
 - **Ganancia:** 7.36 dBi.
 - **Directividad** 8.03 dBi.
 - **Eficiencia (Rad.)** -0.68 dB. 
