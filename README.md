@@ -5,7 +5,7 @@ Este proyecto consiste en el diseño, modelado y simulación de una antena de mi
 ## Especificaciones Técnicas
 - **Frecuencia Central:** 5.8 GHz.
 - **Sustrato:** Sustrato Rogers RT5880LZ con permitividad relativa $\epsilon_r = 2.2$ y espesor de 1.5 mm.
-- **Polarización:** Circular (lograda mediante el truncamiento de esquinas del parche).
+- **Polarización:** Lineal.
 
 ## Resultados de la Simulación
 Tras el proceso de optimización en **CST Studio Suite**, se obtuvieron los siguientes parámetros:
