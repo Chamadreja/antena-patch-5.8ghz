@@ -4,15 +4,15 @@ Este proyecto consiste en el diseño, modelado y simulación de una antena de mi
 
 ## Especificaciones Técnicas
 - **Frecuencia Central:** 5.8 GHz.
-- **Sustrato:** FR4 con permitividad relativa $\epsilon_r = 4.3$ y espesor de 1.6 mm.
+- **Sustrato:** Sustrato Rogers RT5880LZ con permitividad relativa $\epsilon_r = 2.2$ y espesor de 1.5 mm.
 - **Polarización:** Circular (lograda mediante el truncamiento de esquinas del parche).
 
 ## Resultados de la Simulación
 Tras el proceso de optimización en **CST Studio Suite**, se obtuvieron los siguientes parámetros:
-- **Coeficiente de Reflexión ($S_{11}$):** -23.23 dB en la frecuencia de resonancia.
-- **Ancho de Banda:** 156 MHz.
-- **Ganancia:** 1.348 dB.
-- **Relación Axial (Axial Ratio):** 2.65 dB, garantizando una buena polarización circular.
+- **Coeficiente de Reflexión ($S_{11}$):** -49.57 dB en la frecuencia de resonancia.
+- **Ganancia:** 7.36 dBi.
+- **Directividad** 8.03 dBi.
+- **Eficiencia (Rad.)** -0.68 dB. 
 
 ## Herramientas Utilizadas
 - **CST Studio Suite:** Modelado 3D, configuración de puertos y simulación electromagnética.
